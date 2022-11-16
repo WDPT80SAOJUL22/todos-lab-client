@@ -1,0 +1,17 @@
+.todo-list{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 15px 0 0 100px;
+}
+
+.todo-list-item{
+    width: 600px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-list-item input{
+    margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+.form {
+    margin: 2em;
+}
+
+.form input {
+    width: 80vw;
+    margin-right: 1em;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 1.2em;
+}
+
+.form button {
+    width: 8em;
+    padding: 0.5em;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
